@@ -19,7 +19,12 @@
 
 //triangle Loop
 
-var triangle = '#';
-for (var i =0; i < 11; i++){
-    console.log(triangle += '#');
+// var triangle = '#';
+// for (var i =0; i < 11; i++){
+//     console.log(triangle += '#');
+// }
+
+//counter 1-10
+for (let counter = 0; counter < 10; counter ++){
+    console.log(counter);
 }
