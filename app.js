@@ -9,3 +9,11 @@ for(let i = 1; i <= 20; i++){
         console.log('prime' +'' + i)
     }
 }
+
+//even numbers 
+for(counter=0; counter <=100; counter++){
+    if(counter % 3==0){
+        console.log(counter);
+    }
+}
+
